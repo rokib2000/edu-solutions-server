@@ -6,6 +6,10 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
+app.get("/", (req, res) => {
+  res.send("Server running  successfully");
+});
+
 app.listen(port, () => {
   console.log(`Edu Solutions running port, ${port}`);
 });
