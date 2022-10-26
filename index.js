@@ -7,9 +7,15 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 const courses = require("./data/courses.json");
+const faq = require("./data/faq.json");
 
 app.get("/", (req, res) => {
   res.send("Server running  successfully");
+});
+
+//get FAQ data json file
+app.get("/faq", (req, res) => {
+  res.send(faq);
 });
 
 //get courses data json file
