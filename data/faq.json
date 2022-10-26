@@ -1,7 +1,52 @@
 [
   {
     "id": "1",
-    "qun": "Graphic Design",
-    "ans": "Paid"
+    "qun": "What does LOREM mean?",
+    "ans": "‘Lorem ipsum dolor sit amet, consectetur adipisici elit…’ (complete text) is dummy text that is not meant to mean anything. It is used as a placeholder in magazine layouts, for example, in order to give an impression of the finished document. The text is intentionally unintelligible so that the viewer is not distracted by the content. The language is not real Latin and even the first word ‘Lorem’ does not exist. It is said that the lorem ipsum text has been common among typesetters since the 16th century. (Source: Wikipedia.com)."
+  },
+  {
+    "id": "2",
+    "qun": "Where can I subscribe to your newsletter?",
+    "ans": "We often send out our newsletter with news and great offers. We will never disclose your data to third parties and you can unsubscribe from the newsletter at any time. Subscribe here to our newsletter."
+  },
+  {
+    "id": "3",
+    "qun": "Where can in edit my address?",
+    "ans": "If you created a new account after or while ordering you can edit both addresses (for billing and shipping) in your customer account."
+  },
+  {
+    "id": "4",
+    "qun": "Can I order a free copy of a magazine to sample?",
+    "ans": "Unfortunately, we’re unable to offer free samples. As a retailer, we buy all magazines from their publishers at the regular trade price. However, you could contact the magazine’s publisher directly to ask if they can send you a free copy."
+  },
+  {
+    "id": "5",
+    "qun": "Do you accept orders via Phone or E-mail?",
+    "ans": "No, we are an online shop and we do not take orders via Phone, E-mail or Social Media."
+  },
+  {
+    "id": "6",
+    "qun": "Can I reserve a magazine via Phone or E-mail?",
+    "ans": "No, this isn’t possible. We want all of our magazines to be available for all customers. So you have to order the magazine."
+  },
+  {
+    "id": "7",
+    "qun": "Where on your website can I open a customer account?",
+    "ans": "You can create a new account at the end of the order process or on the following page: Create new account. You can view all of your orders and subscriptions in your customer account. You can also change your addresses and your password."
+  },
+  {
+    "id": "8",
+    "qun": "Do I need to create an account to make an order?",
+    "ans": "No, you don’t have to create an account. But there are a few advantages if you create an account.You never have to enter your billing and shipping address again Find all of your orders, subscriptions and addresses in your account Download invoices of your orders"
+  },
+  {
+    "id": "9",
+    "qun": "What are your opening hours?",
+    "ans": "The products in our shop can only be ordered online at present and are sent out by Swiss Post."
+  },
+  {
+    "id": "10",
+    "qun": "Do you also have a physical store?",
+    "ans": "No, we don’t have a physical store location at the moment. We accept only orders through our online shop and we’re shipping all orders with the Swiss Post Service. Please visit our shipping section for more details. From time to time you will find us at design fairs and popup markets in Switzerland. Subscribe to our newsletter and you’ll receive the latest news."
   }
 ]
